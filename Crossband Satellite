@@ -1,0 +1,44 @@
+https://groups.io/g/Kenwood-TH-D75/topic/th_d74_75_crossband_satellite/106280396
+
+Chris Smart 
+05/24/24   #162   
+
+This comes from Kevin Wnuk KI4LAX in the private Kenwood TH-D75A Facebook group. All questions should go directly to him. He does not have an email address listed on his QRZ page, but you can message him directly through the QRZ website’s message feature itself, or on Facebook.
+
+ 
+
+Here's what Kevin says.
+
+ 
+
+"For the Satellite people, here are two template files for the TH-D75 and TH-D74, and their respective Kenwood software applications. The Satellite frequencies are in memory channels 600-799 and cannot be edited or the software will remove the Crossband splits and make them same band splits. You can edit other Memory channels 0-599 and 800-999 with no issues. You will have to add your call sign and other information to the file. If anybody wants a satellite that is not on there let me know and I will add it."
+
+ 
+
+Kevin Wnuk, KI4LAX
+
+ 
+
+TH-D75 Template File for MCP-D75:
+
+ 
+
+TH-D74 Template File for MCP-D74:
+
+ 
+
+For those interested in the details or want to do it themselves, here is a PDF Kevin created explaining how the locations are stored in the file and how to edit memory channels in the file so they will support Crossband Splits for Satellite work.
+
+ 
+
+SatelliteMemory_THD75.pdf
+
+ 
+
+73,
+
+Chris
+
+ 
+
+VE3RWJ on qrz.com
