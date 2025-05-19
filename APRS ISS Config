@@ -1,0 +1,36 @@
+https://kenwood-radios.groups.io/g/TH-D74/topic/th_d74a_iss_aprs_settings/77476263
+
+Rick - WA6NDR 
+10/12/20   #4340   
+
+I was able to make an ISS APRS contact today with just the TH-D74A and an Arrow antenna (details at the end). I started with a video from Don W6GPS and documented what I ended up doing including minor changes. Change the call sign and email address to yours. "Personal preference" settings are optional. The reasoning behind most of the settings is given in Don's video. I am using TH-D74A firmware v1.10 (with v1.11 released 8/26/2020 but not seeming worth the installation time).
+
+Menu 800 = SD Card, Export, Config Data (FOR LATER IMPORT AND NORMAL OPERATION).
+Menu 999 = Config, System, Full Reset
+[F]DUAL to set A band only.
+Menu 900 = Config, Display, Backlight Control = On
+Menu 404 = GPS, Basic Settings, Battery Saver = Off
+Menu 500 = APRS, Basic Settings, My Callsign = WA6NDR-7
+Menu 503 = APRS, Basic Settings, Status Text = 1/1, "VIA ISS WA6NDR@..."
+Menu 504 = APRS, Basic Settings, Packet Path = Others1, "ARISS"
+Menu 507 = APRS, Basic Settings, DCD Sense = Detect Data
+Menu 511 = APRS, Beacon TX Control, Initial Interval = 30 min.
+Menu 512 = APRS, Beacon TX Control, Decay Algorithm = Off
+Menu 513 = APRS, Beacon TX Control, Prop. Pathing = Off
+Menu 514 = APRS, Beacon TX Control, Speed = Off
+Menu 903 = Config, Display, Power-on Message = "WA6NDR ISS"
+Menu 904 = Config, Display, Single Band Display = GPS(GS)
+Menu 920 = Config, Battery, Battery Saver = Off
+Menu 921 = Config, Battery, Auto Power Off = Off
+Menu 950 = Config, Date & Time, Setting = <local>, UTC -7:00
+VFO, set frequency to 145.825 MHz
+[F]APRS (see "APRS 12" on the top display, GPS info on bottom).
+Personal preference, for SD Card recording and save to PC.
+Menu 941 = Config, Auxiliary, PF2 = Recording (on/off)
+Menu 944 = Config, Auxiliary, PF3 (Mic) = Screen Capture
+Menu 980 = Config, Interface, USB Function = Mass Storage
+Menu 800 = SD Card, Export, Config Data (FOR ISS OPERATION).
+Operation
+Arrow 146/437-10WBP antenna: Use only the 2m 3-element part.
+Open squelch: [F]MONI, KNOB CCW, ENT.  Listen, watch...
+BCON to send a beacon.  BCON again (off).  Repeat.
