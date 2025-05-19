@@ -1,0 +1,53 @@
+https://groups.io/g/KenwoodTH-D74/topic/sharing_eq_settings/74737415
+
+Chris Smart
+06/07/20   #1431   
+
+Just for fun, here are the various EQ settings I've settled on with my THD074A.
+
+They're more noticeable on the transmit side.
+
+I had to write these down anyway so.. thought I would share, and hey, let's hear what the rest of you are using.
+
+Menu #112 is mic gain. I have mine on maximum, because I'm quite soft-spoken, and have to do this with every radio I own.  I doubt you can make the internal mic in the D74 distort though, because the radio does contain some sort of limiter. If you listen carefully on simplex, you can hear the background noise slowly come back up after you stop speaking.
+
+IMPORTANT: I'm sure you know this already, but talking across, not directly into, the microphone on the front greatly reduces the breath/wind noise, p-pops etc. The Kenwood seems especially proan to these. Someone kindly pointed this out soon after I got on the air.
+
+Menu #911 is where you turn the EQ's on and off.
+
+Menu #912. TX EQ:
+
+
+Band 1. 0.4 kHz: +3
+
+Band 2. 0.8 kHz: +2
+
+Band 3. 1.6 kHz: 0
+
+Band 4. 3.2 kHz: +3
+
+(a little fuller, less midrange "honk" and more clarity in the highs)
+
+
+Menu #913: RX EQ:
+
+
+Band 1. 0.4 kHz: +3
+
+Band 2. 0.8 kHz: -2
+
+Band 3. 1.6 kHz: 0
+
+Band 4. 3.2 kHz: +3
+
+Band 5. 6.4 kHz: -9
+
+That last one is unnecessary if you mostly listen to strong signals, but honestly, it's mostly hash and noise up there with weaker signals.
+
+Just curious, can someone tell me which is correct, KHz or kHz? How do I determine which letter to capitalize when writing these abbreviations?
+
+
+73,
+
+
+Chris
